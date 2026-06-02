@@ -1,6 +1,8 @@
 ---
 title: 2026 Combinatorics Workshop
-layout: ko
+layout: default
+lang: ko-KR
+menu: menu
 ---
 # 2026 조합론 학술대회
 <!-- [English](/en/) -->
@@ -80,4 +82,3 @@ In progress!
 <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" /></a>
 <a href="https://dimag.ibs.re.kr/"><img src="/assets/NRF_logo_2.png" alt="National Research Foundation" /></a>
 </div>
-

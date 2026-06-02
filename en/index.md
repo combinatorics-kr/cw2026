@@ -1,5 +1,7 @@
 ---
-layout: en
+layout: default
+lang: en-US
+menu: menuen
 ---
 # 2026 Combinatorics Workshop
 

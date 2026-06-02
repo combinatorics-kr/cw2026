@@ -1,5 +1,7 @@
 ---
-layout: ko
+layout: default
+lang: ko-KR
+menu: menu
 ---
 # 역사
 
