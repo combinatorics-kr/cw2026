@@ -5,17 +5,23 @@ menu: menuen
 ---
 # 2026 Combinatorics Workshop
 
-<!-- [한국어](/) -->
-
 <!-- [![Group Photos](/assets/group2025-small.jpg)](/assets/group2025-large.jpg)-->
 
 [Combinatorics Workshop (조합론 학술대회)](https://www.combinatorics.kr/workshop/combinatorics-workshop) is an annual conference for researchers in combinatorics and related areas in Korea.
-It was started in 2004 by the Yonsei University BK21 Research Group. Since 2013, this workshop has been advised by the committee of discrete mathematics of the Korean Mathematical Society. This year, it will be at Konjiam Resort in Gwangju-si from afternoon on October 20 to afternoon on October 22, 2026.
+It was started in 2004 by the Yonsei University BK21 Research Group. Since 2013, this workshop has been advised by the committee of discrete mathematics of the Korean Mathematical Society. 
 
-<!-- The 2025 Combinatorics Workshop will start in the afternoon of August 18 (Monday) and end in the afternoon of August 20 (Wednesday).
-There will be several invited talks and contributed talks.
-Using English is recommended if there are non-Korean participants in the audience.
--->
+## Venue
+
+[Konjiam Resort](https://www.konjiamresort.co.kr/en/main/main.dev), EW Village, B2, Meeting Room OPUS2 
+
+(278, Docheogwit-Ro, Docheok-Myeon, Gwangju-Si, Gyeonggi-Do, Korea)
+
+- [Travel Instructions](https://www.konjiamresort.co.kr/en/intro/comeway.dev)
+
+## Dates
+
+October 20 to 22, 2026
+
 
 ## Invited Speakers
 
@@ -25,6 +31,7 @@ In progress!
 ## Contributed Talks
 
 If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the registration link below.  
+
 Each contributed talk will be 20-25 minutes long.
 
 ## Program
@@ -47,6 +54,7 @@ In principle, all participants will share a room with one other participant.
 
 The accommodation is a condominium-style unit consisting of one living room and two bedrooms, with a standard occupancy of four people per unit. 
 However, for the convenience of participants, each unit will be assigned to two people.
+
 Please note that student participants may be assigned three or more people per unit, depending on room availability.
 
 ### Designated Hotels
@@ -55,17 +63,6 @@ Please note that student participants may be assigned three or more people per u
 
 We will provide the following meals: Tuesday Lunch, Tuesday Dinner, Wednesday Lunch, Wednesday Dinner, Thursday Lunch. 
 Breakfast is not provided, but coffee break pastry will be provided at the lecture hall.
-
-## Venue
-
-Konjiam Resort, EW Village, B2, Meeting Room OPUS2 (278, Docheogwit-Ro, Docheok-Myeon, Gwangju-Si, Gyeonggi-Do, Korea)
-
-<!-- - Parking: Free
-
-![Map](/assets/map.png)
--->
-
-- [Travel Instructions](https://www.konjiamresort.co.kr/en/intro/comeway.dev)
 
 ## Organizing Committee
 
