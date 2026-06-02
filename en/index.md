@@ -41,6 +41,13 @@ The registration deadline is August 31, 2026.
 
 ## Accommodation
 
+Accommodation is provided on a first-come, first-served basis. 
+In principle, all participants will share a room with one other participant.
+
+The accommodation is a condominium-style unit consisting of one living room and two bedrooms, with a standard occupancy of four people per unit. 
+However, for the convenience of participants, each unit will be assigned to two people.
+Please note that student participants may be assigned three or more people per unit, depending on room availability.
+
 ### Designated Hotels
 
 1. [Konjiam Resort](https://www.konjiamresort.co.kr/en/main/main.dev)
