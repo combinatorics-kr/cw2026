@@ -18,6 +18,7 @@ Using English is recommended if there are non-Korean participants in the audienc
 ## Invited Speakers
 
 In progress!
+- [Cheolwon Heo](https://sites.google.com/view/cwheo) (SUNY Korea)
 
 ## Contributed Talks
 
