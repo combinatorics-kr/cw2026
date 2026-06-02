@@ -46,7 +46,7 @@ The registration deadline is August 31, 2026.
 1. [Konjiam Resort](https://www.konjiamresort.co.kr/en/main/main.dev)
 
 We will provide the following meals: Tuesday Lunch, Tuesday Dinner, Wednesday Lunch, Wednesday Dinner, Thursday Lunch. 
-There is no separate breakfast, and coffee break pastry will be provided at the lecture hall. 
+Breakfast is not provided, but coffee break pastry will be provided at the lecture hall.
 
 ## Venue
 
