@@ -21,10 +21,8 @@ In progress!
 
 ## Contributed Talks
 
-If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the following link. 
+If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the registration link below.  
 Each contributed talk will be 20-25 minutes long.
-
-[Submit abstracts: TODO](TODO)
 
 ## Program
 
@@ -35,7 +33,7 @@ Each contributed talk will be 20-25 minutes long.
 
 ## Registration
 
-[Registration: TODO](TODO)
+[Registration link](https://forms.gle/hbWvNA7cgSAXqs5x7)
 
 The registration deadline is August 31, 2026.
 
