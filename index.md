@@ -15,7 +15,7 @@ layout: ko
 ## 초청연사 
 
 In progress!
-<!-- - [권오정](http://ojkwon.com) (Hanyang University / IBS DIMAG)-->
+- [허철원](https://sites.google.com/view/cwheo) (SUNY Korea)
 
 
 ## 일반 강연 (Contributed Talks)
