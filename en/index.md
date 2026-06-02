@@ -18,13 +18,12 @@ Using English is recommended if there are non-Korean participants in the audienc
 ## Invited Speakers
 
 In progress!
+- [Cheolwon Heo](https://sites.google.com/view/cwheo) (SUNY Korea)
 
 ## Contributed Talks
 
-If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the following link. 
+If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the registration link below.  
 Each contributed talk will be 20-25 minutes long.
-
-[Submit abstracts: TODO](TODO)
 
 ## Program
 
@@ -35,7 +34,7 @@ Each contributed talk will be 20-25 minutes long.
 
 ## Registration
 
-[Registration: TODO](TODO)
+[Registration link](https://forms.gle/hbWvNA7cgSAXqs5x7)
 
 The registration deadline is August 31, 2026.
 
@@ -53,7 +52,7 @@ Please note that student participants may be assigned three or more people per u
 1. [Konjiam Resort](https://www.konjiamresort.co.kr/en/main/main.dev)
 
 We will provide the following meals: Tuesday Lunch, Tuesday Dinner, Wednesday Lunch, Wednesday Dinner, Thursday Lunch. 
-There is no separate breakfast, and coffee break pastry will be provided at the lecture hall. 
+Breakfast is not provided, but coffee break pastry will be provided at the lecture hall.
 
 ## Venue
 

@@ -15,15 +15,12 @@ layout: ko
 ## 초청연사 
 
 In progress!
-<!-- - [권오정](http://ojkwon.com) (Hanyang University / IBS DIMAG)-->
+- [허철원](https://sites.google.com/view/cwheo) (SUNY Korea)
 
 
 ## 일반 강연 (Contributed Talks)
 
 워크샵에서 연구 결과를 발표하길 원하시는 분들께서는 아래 등록 링크를 통하여 8월 31일까지 발표 제목과 초록을 제출해주시기 바랍니다.
-
-<!--[링크: TODO](TODO)-->
-
 
 일반 강연은 20-25분간 진행될 예정입니다. 
 
@@ -35,7 +32,7 @@ In progress!
 
 ## 등록 
 
-[링크: TODO](TODO)
+[등록 링크](https://forms.gle/hbWvNA7cgSAXqs5x7)
 
 등록 마감은 8월 31일입니다.
 
