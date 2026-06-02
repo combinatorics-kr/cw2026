@@ -8,7 +8,7 @@ layout: en
 <!-- [![Group Photos](/assets/group2025-small.jpg)](/assets/group2025-large.jpg)-->
 
 [Combinatorics Workshop (조합론 학술대회)](https://www.combinatorics.kr/workshop/combinatorics-workshop) is an annual conference for researchers in combinatorics and related areas in Korea.
-It was started in 2004 by the Yonsei University BK21 Research Group. Since 2013, this workshop has been advised by the committee of discrete mathematics of the Korean Mathematical Society. This year, it will be at Konjiam Resort in Yongin from afternoon on October 20 to afternoon on October 22, 2026.
+It was started in 2004 by the Yonsei University BK21 Research Group. Since 2013, this workshop has been advised by the committee of discrete mathematics of the Korean Mathematical Society. This year, it will be at Konjiam Resort in Gwangju-si from afternoon on October 20 to afternoon on October 22, 2026.
 
 <!-- The 2025 Combinatorics Workshop will start in the afternoon of August 18 (Monday) and end in the afternoon of August 20 (Wednesday).
 There will be several invited talks and contributed talks.
@@ -82,5 +82,5 @@ Committee of Discrete Mathematics, The Korean Mathematical Society (Chair: Sang-
 - [Hankuk University of Foreign Studies](https://www.hufs.ac.kr/)
 
 <div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> 
-<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" />
-<a href="https://dimag.ibs.re.kr/"><img src="/assets/NRF_logo_2.png" alt="National Research Foundation" /></a></a></div>
+<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" /></a>
+<a href="https://dimag.ibs.re.kr/"><img src="/assets/NRF_logo_2.png" alt="National Research Foundation" /></a></div>

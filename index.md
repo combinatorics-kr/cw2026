@@ -47,7 +47,7 @@ In progress!
 ### 학술대회 지정 호텔
 1. [곤지암리조트](https://www.konjiamresort.co.kr/)
 
-모든 참가자들에게 화요일 점심, 저녁, 수요일 점심, 저녁, 목요일 점식 식사가 제공될 예정입니다. 
+모든 참가자들에게 화요일 점심, 저녁, 수요일 점심, 저녁, 목요일 점심 식사가 제공될 예정입니다. 
 별도의 조식은 없으며, 강연장에서 다과가 제공될 예정입니다. 
 
 ## 학회 장소 
@@ -77,7 +77,7 @@ In progress!
 
 <div id="logo">
 <a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> 
-<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" />
-<a href="https://dimag.ibs.re.kr/"><img src="/assets/NRF_logo_2.png" alt="National Research Foundation" /></a></a>
+<a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" /></a>
+<a href="https://dimag.ibs.re.kr/"><img src="/assets/NRF_logo_2.png" alt="National Research Foundation" /></a>
 </div>
 
