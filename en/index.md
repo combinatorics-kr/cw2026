@@ -30,9 +30,10 @@ In progress!
 
 ## Contributed Talks
 
-If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the registration link below.  
+Each contributed talk will be about 20 minutes, including questions. 
+Please note that we may stop accepting contributed talk applications before the deadline if all available slots are filled.
 
-Each contributed talk will be 20-25 minutes long.
+If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the registration link below.  
 
 ## Program
 
@@ -56,6 +57,16 @@ The accommodation is a condominium-style unit consisting of one living room and 
 However, for the convenience of participants, each unit will be assigned to two people.
 
 Please note that student participants may be assigned three or more people per unit, depending on room availability.
+
+## Parking
+
+Please park your vehicle in the outdoor parking lot at Konjiam Resort. 
+We recommend using Parking Lots 6 and 7, which are lots located near E Village and W Village. 
+
+The number of vehicles that can be registered for the resort’s underground parking lot is limited for each event, so participants are asked to use the outdoor parking lot. 
+
+You may provide your vehicle's plate number on the day of the event after parking. 
+However, since staff members need to enter each vehicle's plate number manually, we recommend registering your vehicle in advance.
 
 ### Designated Hotels
 
