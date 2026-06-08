@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" role="img" aria-label="Autumn forest landscape">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6f2c35"/>
+      <stop offset="0.42" stop-color="#c08b5f"/>
+      <stop offset="0.74" stop-color="#d7b480"/>
+      <stop offset="1" stop-color="#27454a"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f8ead5" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="#f8ead5" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#f8ead5" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="hillA" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#455744"/>
+      <stop offset="1" stop-color="#172d31"/>
+    </linearGradient>
+    <linearGradient id="hillB" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#a85a34"/>
+      <stop offset="0.58" stop-color="#6f5330"/>
+      <stop offset="1" stop-color="#20383b"/>
+    </linearGradient>
+    <linearGradient id="path" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#c79a61"/>
+      <stop offset="1" stop-color="#6b4930"/>
+    </linearGradient>
+    <filter id="soften" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1800" height="900" fill="url(#sky)"/>
+  <ellipse cx="1120" cy="215" rx="560" ry="210" fill="url(#mist)" filter="url(#soften)" opacity="0.86"/>
+  <path d="M0 470 C210 310 405 385 625 315 C850 240 1040 185 1238 270 C1430 350 1605 280 1800 180 L1800 900 L0 900 Z" fill="url(#hillA)" opacity="0.66"/>
+  <path d="M0 560 C255 410 430 460 655 395 C870 333 1050 350 1240 430 C1450 520 1590 418 1800 352 L1800 900 L0 900 Z" fill="url(#hillB)" opacity="0.84"/>
+  <path d="M0 700 C245 585 390 660 595 575 C760 505 930 545 1100 625 C1300 720 1515 650 1800 558 L1800 900 L0 900 Z" fill="#263f37" opacity="0.82"/>
+
+  <g opacity="0.88">
+    <circle cx="120" cy="530" r="84" fill="#9d2f25"/>
+    <circle cx="205" cy="590" r="96" fill="#c55d28"/>
+    <circle cx="335" cy="560" r="74" fill="#d99a32"/>
+    <circle cx="485" cy="615" r="98" fill="#8d3427"/>
+    <circle cx="685" cy="585" r="82" fill="#c77f27"/>
+    <circle cx="840" cy="630" r="112" fill="#b43f2a"/>
+    <circle cx="1048" cy="604" r="76" fill="#d2a23d"/>
+    <circle cx="1242" cy="650" r="106" fill="#8f372a"/>
+    <circle cx="1435" cy="592" r="88" fill="#c45a27"/>
+    <circle cx="1625" cy="635" r="120" fill="#7f3128"/>
+  </g>
+
+  <g fill="#233b33" opacity="0.9">
+    <path d="M258 616 C265 555 282 520 310 475 C340 525 363 560 374 622 Z"/>
+    <path d="M735 604 C742 538 764 496 800 445 C835 503 860 548 873 620 Z"/>
+    <path d="M1160 638 C1165 572 1188 525 1226 470 C1265 532 1292 580 1304 650 Z"/>
+    <path d="M1510 585 C1518 520 1542 480 1575 430 C1608 485 1633 535 1646 598 Z"/>
+  </g>
+
+  <path d="M0 775 C180 725 315 690 430 642 C548 593 620 548 707 538 C636 594 545 646 445 700 C330 762 220 824 150 900 L0 900 Z" fill="url(#path)" opacity="0.95"/>
+  <path d="M66 778 C226 737 356 690 486 620" fill="none" stroke="#2b2620" stroke-width="11" stroke-linecap="round" opacity="0.7"/>
+  <path d="M35 820 C210 770 365 708 520 634" fill="none" stroke="#e2bd78" stroke-width="5" stroke-linecap="round" opacity="0.65"/>
+
+  <g stroke="#3b281e" stroke-width="10" stroke-linecap="round" opacity="0.78">
+    <path d="M95 754 L95 846"/>
+    <path d="M175 735 L175 812"/>
+    <path d="M255 710 L255 774"/>
+    <path d="M332 680 L332 735"/>
+    <path d="M410 645 L410 694"/>
+  </g>
+  <path d="M74 786 C185 748 315 708 430 660" fill="none" stroke="#3b281e" stroke-width="8" stroke-linecap="round" opacity="0.72"/>
+
+  <g opacity="0.45">
+    <circle cx="620" cy="320" r="110" fill="#f5dec0" filter="url(#soften)"/>
+    <circle cx="930" cy="270" r="150" fill="#f5dec0" filter="url(#soften)"/>
+  </g>
+  <rect width="1800" height="900" fill="#1f2328" opacity="0.16"/>
+</svg>
