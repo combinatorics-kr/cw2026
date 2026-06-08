@@ -88,7 +88,7 @@ Please mark your interest when registering for the conference.
 ## Organizing Committee
 
 - [Ilkyoo Choi (최일규)](https://sites.google.com/view/ilkyoochoi/), Hankuk University of Foreign Studies, IBS Discrete Mathematics Group, KIAS
-- [Sang-il Oum (엄상일)](https://dimag.ibs.re.kr/home/sangil/), IBS Discrete Mathematics Group
+- [Sang-il Oum (엄상일)](https://sangil.dimag.kr/), IBS Discrete Mathematics Group
 - [Boram Park (박보람)](https://sites.google.com/view/borampark/), Seoul National University 
 
 ## Advisory Committee

@@ -84,7 +84,7 @@ Contributed Talk을 신청하려면 Indico의 [Call for Abstracts](https://indic
 
 ## 조직위원 
 - [박보람](https://sites.google.com/view/borampark/) (서울대학교)
-- [엄상일](https://dimag.ibs.re.kr/home/sangil/) (IBS 이산수학그룹)
+- [엄상일](https://sangil.dimag.kr/) (IBS 이산수학그룹)
 - [최일규](https://sites.google.com/view/ilkyoochoi/) (한국외국어대학교, IBS 이산수학그룹, 고등과학원)
 
 ## 자문위
