@@ -25,15 +25,19 @@ October 20 to 22, 2026
 
 ## Invited Speakers
 
-In progress!
 - [Cheolwon Heo](https://sites.google.com/view/cwheo) (SUNY Korea)
+- [Tony Huynh](https://sites.google.com/site/matroidintersection/) (IBS DIMAG)
+- [Dabeen Lee](https://dabeenl.github.io/) (Seoul National University)
+- [Jongbaek Song](https://sites.google.com/site/jongbaeksong/home) (Pusan National University)
 
 ## Contributed Talks
 
 Each contributed talk will be about 20 minutes, including questions. 
 Please note that we may stop accepting contributed talk applications before the deadline if all available slots are filled.
 
-If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026 via the registration link below.  
+If you are interested in giving a contributed talk at the workshop, please submit an abstract by August 31, 2026.
+
+To apply for a contributed talk, go to [Call for Abstracts](https://indico.ibs.re.kr/event/1315/abstracts/) on Indico and click "Submit new abstract." You may need to create an IBS Indico account.
 
 ## Program
 
@@ -44,7 +48,7 @@ If you are interested in giving a contributed talk at the workshop, please submi
 
 ## Registration
 
-[Registration link](https://forms.gle/hbWvNA7cgSAXqs5x7)
+[Registration link](https://indico.ibs.re.kr/event/1315/registrations/)
 
 The registration deadline is August 31, 2026.
 
@@ -75,6 +79,12 @@ However, since staff members need to enter each vehicle's plate number manually,
 We will provide the following meals: Tuesday Lunch, Tuesday Dinner, Wednesday Lunch, Wednesday Dinner, Thursday Lunch. 
 Breakfast is not provided, but coffee break pastry will be provided at the lecture hall.
 
+## Short Excursion
+
+We are planning a short excursion to [Hwadam Forest](https://www.hwadamsup.com/pc/en/index) on Wednesday, October 21.
+
+Please mark your interest when registering for the conference.
+
 ## Organizing Committee
 
 - [Ilkyoo Choi (최일규)](https://sites.google.com/view/ilkyoochoi/), Hankuk University of Foreign Studies, IBS Discrete Mathematics Group, KIAS
@@ -85,12 +95,14 @@ Breakfast is not provided, but coffee break pastry will be provided at the lectu
 
 Committee of Discrete Mathematics, The Korean Mathematical Society (Chair: Sang-il Oum)
 
-## Hosts
+## Sponsors
 
 - [IBS Discrete Mathematics Group](https://dimag.ibs.re.kr/)
+- [Korean Mathematical Society](https://www.kms.or.kr/)
 - [Seoul National University](https://www.snu.ac.kr/)
 - [Hankuk University of Foreign Studies](https://www.hufs.ac.kr/)
 
 <div id="logo"><a href="https://dimag.ibs.re.kr/"><img src="/assets/dimag.png" alt="IBS 이산수학그룹" /></a> 
 <a href="https://www.kms.or.kr/"><img src="/assets/kms.png" alt="Korean Mathematical Society" /></a>
-<a href="https://dimag.ibs.re.kr/"><img src="/assets/NRF_logo_2.png" alt="National Research Foundation" /></a></div>
+<a href="https://www.snu.ac.kr/"><img src="/assets/snu.png" alt="Seoul National University" /></a>
+<a href="https://www.hufs.ac.kr/"><img src="/assets/hufs.png" alt="Hankuk University of Foreign Studies" /></a></div>
