@@ -23,6 +23,10 @@ menu: menu
 
 2026년 10월 20일 ~ 22일 
 
+## 기조강연자
+
+- [알렉산드르 V. 코스토치카](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
+
 ## 초청연사 
 
 - [송종백](https://sites.google.com/site/jongbaeksong/home) (Pusan National University)
