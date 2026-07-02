@@ -22,6 +22,9 @@ It was started in 2004 by the Yonsei University BK21 Research Group. Since 2013,
 
 October 20 to 22, 2026
 
+## Plenary Speaker
+
+- [Alexandr V. Kostochka](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
 
 ## Invited Speakers
 
