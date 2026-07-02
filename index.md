@@ -23,9 +23,9 @@ menu: menu
 
 2026년 10월 20일 ~ 22일 
 
-## 기조강연자
+## 기조강연
 
-- [알렉산드르 V. 코스토치카](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
+- [알렉산드르 코스토치카 Alexandr V. Kostochka](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
 
 ## 초청연사 
 
