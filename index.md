@@ -25,7 +25,7 @@ menu: menu
 
 ## 기조강연
 
-- [알렉산드르 코스토치카 Alexandr V. Kostochka](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
+- [알렉산드르 V. 코스토치카](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
 
 ## 초청연사 
 
