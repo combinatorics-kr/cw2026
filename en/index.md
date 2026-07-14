@@ -31,6 +31,7 @@ October 20 to 22, 2026
 - [Cheolwon Heo](https://sites.google.com/view/cwheo) (SUNY Korea)
 - [Tony Huynh](https://sites.google.com/site/matroidintersection/) (IBS DIMAG)
 - [Dabeen Lee](https://dabeenl.github.io/) (Seoul National University)
+- [Jakub Przybyło]() (AGH University of Krakow)
 - [Jongbaek Song](https://sites.google.com/site/jongbaeksong/home) (Pusan National University)
 
 ## Contributed Talks
