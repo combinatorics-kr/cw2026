@@ -30,6 +30,7 @@ menu: menu
 ## 초청연사 
 
 - [송종백](https://sites.google.com/site/jongbaeksong/home) (Pusan National University)
+- [야쿠프 프시비워]() (AGH University of Krakow)
 - [이다빈](https://dabeenl.github.io/) (Seoul National University)
 - [토니현](https://sites.google.com/site/matroidintersection/) (IBS DIMAG)
 - [허철원](https://sites.google.com/view/cwheo) (SUNY Korea)
