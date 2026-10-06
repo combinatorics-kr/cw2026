@@ -81,13 +81,6 @@ However, since staff members need to enter each vehicle's plate number manually,
 1. [Konjiam Resort](https://www.konjiamresort.co.kr/en/main/main.dev)
 
 We will provide the following meals: Tuesday Lunch, Tuesday Dinner, Wednesday Lunch, Wednesday Dinner, Thursday Lunch. 
-Breakfast is not provided, but coffee break pastry will be provided at the lecture hall.
-
-## ~~Short Excursion~~
-
-~~We are planning a short excursion to [Hwadam Forest](https://www.hwadamsup.com/pc/en/index) on Wednesday, October 21.~~
-
-~~Please mark your interest when registering for the conference.~~
 
 ## Organizing Committee
 

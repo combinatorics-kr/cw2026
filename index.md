@@ -79,13 +79,6 @@ Contributed Talk을 신청하려면 Indico의 [Call for Abstracts](https://indic
 1. [곤지암리조트](https://www.konjiamresort.co.kr/)
 
 모든 참가자들에게 화요일 점심, 저녁, 수요일 점심, 저녁, 목요일 점심 식사가 제공될 예정입니다. 
-별도의 조식은 없으며, 강연장에서 다과가 제공될 예정입니다. 
-
-## ~~Short Excursion~~
-
-~~10월 21일 수요일에 [화담숲](https://www.hwadamsup.com/pc/ko/index) 단체 관광을 할까 합니다.~~
-
-~~관심있는 분들은 학회 등록할 때 표기 부탁드립니다.~~
 
 ## 조직위원 
 - [박보람](https://sites.google.com/view/borampark/) (서울대학교)
