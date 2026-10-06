@@ -28,6 +28,11 @@
         background-color: #e9ecef;
         font-style: italic;
     }
+    .session-chair {
+        display: block;
+        margin-top: 0.25em;
+        font-style: normal;
+    }
     .break-row {
         background-color: #fffbe6;
         text-align: center;
@@ -97,7 +102,7 @@
             <td colspan="2">Opening Remark</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">14:00-14:50 &nbsp;&nbsp;&nbsp;<strong>Plenary Session</strong></td>
+            <td colspan="3">14:00-14:50 &nbsp;&nbsp;&nbsp;<strong>Plenary Session</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 최일규{% else %}Chair: Ilkyoo Choi{% endif %}</span></td>
         </tr>
         <tr>
             <td>14:00-14:50</td>
@@ -121,7 +126,7 @@
             <td colspan="2">Break</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">15:10-16:25 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 1</strong></td>
+            <td colspan="3">15:10-16:25 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 1</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 이상준{% else %}Chair: Sang June Lee{% endif %}</span></td>
         </tr>
         <tr>
             <td>15:10-15:35</td>
@@ -172,7 +177,7 @@
             <td colspan="2">Check-in</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">17:10-18:00 &nbsp;&nbsp;&nbsp;<strong>Invited Session 1</strong></td>
+            <td colspan="3">17:10-18:00 &nbsp;&nbsp;&nbsp;<strong>Invited Session 1</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 김석진{% else %}Chair: Seog-Jin Kim{% endif %}</span></td>
         </tr>
         <tr>
             <td>17:10-18:00</td>
@@ -213,7 +218,7 @@
     </thead>
     <tbody>
         <tr class="chair-row">
-            <td colspan="3">09:00-09:50 &nbsp;&nbsp;&nbsp;<strong>Invited Session 2</strong></td>
+            <td colspan="3">09:00-09:50 &nbsp;&nbsp;&nbsp;<strong>Invited Session 2</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: Mark Siggers{% else %}Chair: Mark Siggers{% endif %}</span></td>
         </tr>
         <tr>
             <td>09:00-09:50</td>
@@ -236,7 +241,7 @@
             <td colspan="2">Break</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">10:10-11:00 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 2</strong></td>
+            <td colspan="3">10:10-11:00 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 2</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 권영수{% else %}Chair: Young Soo Kwon{% endif %}</span></td>
         </tr>
         <tr>
             <td>10:10-10:35</td>
@@ -276,7 +281,7 @@
             <td colspan="2">Short break</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">11:10-12:00 &nbsp;&nbsp;&nbsp;<strong>Invited Session 3</strong></td>
+            <td colspan="3">11:10-12:00 &nbsp;&nbsp;&nbsp;<strong>Invited Session 3</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 권오정{% else %}Chair: O-joung Kwon{% endif %}</span></td>
         </tr>
         <tr>
             <td>11:10-12:00</td>
@@ -297,7 +302,7 @@
             <td colspan="2">Lunch</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">14:00-14:50 &nbsp;&nbsp;&nbsp;<strong>Invited Session 4</strong></td>
+            <td colspan="3">14:00-14:50 &nbsp;&nbsp;&nbsp;<strong>Invited Session 4</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 안정호{% else %}Chair: Jungho Ahn{% endif %}</span></td>
         </tr>
         <tr>
             <td>14:00-14:50</td>
@@ -318,7 +323,7 @@
             <td colspan="2">Break</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">15:10-16:25 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 3</strong></td>
+            <td colspan="3">15:10-16:25 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 3</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 박종육{% else %}Chair: Jongyook Park{% endif %}</span></td>
         </tr>
         <tr>
             <td>15:10-15:35</td>
@@ -370,7 +375,7 @@
             <td colspan="2">Break</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">16:45-17:35 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 4</strong></td>
+            <td colspan="3">16:45-17:35 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 4</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 신희성{% else %}Chair: Heesung Shin{% endif %}</span></td>
         </tr>
         <tr>
             <td>16:45-17:10</td>
@@ -429,7 +434,7 @@
     </thead>
     <tbody>
         <tr class="chair-row">
-            <td colspan="3">09:00-09:50 &nbsp;&nbsp;&nbsp;<strong>Invited Session 5</strong></td>
+            <td colspan="3">09:00-09:50 &nbsp;&nbsp;&nbsp;<strong>Invited Session 5</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 서승현{% else %}Chair: Seunghyun Seo{% endif %}</span></td>
         </tr>
         <tr>
             <td>09:00-09:50</td>
@@ -450,7 +455,7 @@
             <td colspan="2">Break</td>
         </tr>
         <tr class="chair-row">
-            <td colspan="3">10:10-12:00 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 5</strong></td>
+            <td colspan="3">10:10-12:00 &nbsp;&nbsp;&nbsp;<strong>Contributed Session 5</strong><span class="session-chair">{% if page.lang == 'ko-KR' %}좌장: 남하얀{% else %}Chair: Hayan Nam{% endif %}</span></td>
         </tr>
         <tr>
             <td>10:10-10:35</td>
