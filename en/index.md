@@ -81,6 +81,7 @@ However, since staff members need to enter each vehicle's plate number manually,
 1. [Konjiam Resort](https://www.konjiamresort.co.kr/en/main/main.dev)
 
 We will provide the following meals: Tuesday Lunch, Tuesday Dinner, Wednesday Lunch, Wednesday Dinner, Thursday Lunch. 
+Sandwiches will also be provided for breakfast on Wednesday and Thursday.
 
 ## Organizing Committee
 
